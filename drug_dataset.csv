@@ -1,0 +1,39 @@
+Drug Name,Chemical Compound,Usage,Dosage,Side Effects,Manufacturer,SMILES
+Acetaminophen,Paracetamol,Fever and pain relief,"500 mg, every 4-6 hours","Liver damage (overuse), nausea, rash",Generic,CC(=O)NC1=CC=C(O)C=C1
+Ibuprofen,Ibuprofen,Pain and inflammation,"200-400 mg, every 6-8 hours","Stomach irritation, kidney damage, bleeding",Generic,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
+Dengvaxia,Live attenuated dengue virus,Dengue prevention (vaccine),3 injections over 12 months,"Headache, fatigue, fever, joint pain",Sanofi Pasteur,
+ORS (Oral Rehydration Solution),"Sodium, potassium, glucose",Rehydration,1-2 liters/day,"Nausea, vomiting (in excess)",Generic,
+Naproxen,Naproxen Sodium,Pain and inflammation,250 mg every 6-8 hours,"Stomach pain, heartburn, dizziness",Aleve,CC(C1=CC=CC=C1C(C)C(=O)[O-])C2=CC=CC=C2.[Na+]
+Ceftriaxone,Ceftriaxone,Treat secondary bacterial infections,1-2 g IV/IM per day,"Diarrhea, rash, injection site reaction",Roche,CC1C(C(=O)NC2=C1C(=O)N(C(=O)C2CSC3=NN=NN3CC(=O)O)C)N
+Azithromycin,Azithromycin,Antibiotic for bacterial co-infections,500 mg daily for 3-5 days,"Diarrhea, nausea, stomach pain",Pfizer,CC[C@H]1[C@@H]([C@@H](C[C@H](O[C@H]1C)C2=C(C(=C(C(=C2)O)O)O)O)O[C@H]3[C@@H]([C@H](O[C@@H](C3)O)N(C)C)O)O
+Doxycycline,Doxycycline,Treat secondary bacterial infections,100 mg twice daily,"Photosensitivity, stomach upset",Generic,CC1C(C(C(C(C1O)O)O)N2C3C(C(=O)N(CC3=O)C(=C2O)C4=CC=CC=C4)C)C
+Aspirin,Acetylsalicylic acid,Anti-inflammatory (use with caution),325 mg every 4-6 hours,"Increased bleeding, stomach ulcers",Bayer,CC(=O)OC1=CC=CC=C1C(=O)O
+Chlorpheniramine,Chlorpheniramine Maleate,Relief from allergic symptoms,4 mg every 4-6 hours,"Drowsiness, dry mouth, dizziness",Generic,CN(C)CCC(C1=CC=CC=C1)C2=CC=C(Cl)C=N2
+Pantoprazole,Pantoprazole,Protect stomach lining,40 mg daily,"Diarrhea, nausea, dizziness",Pfizer,COC1=C(NC=C2C(=C1)C(=O)NC(=N2)SCC3=CC=CC=C3F)OC
+Ondansetron,Ondansetron,Nausea and vomiting control,4-8 mg per dose,"Constipation, headache, fatigue",GlaxoSmithKline,CN1CCN(CC1)C2=CN=CC3=C2C=CC(=C3)Cl
+Ranitidine,Ranitidine,Reduce stomach acid,150 mg twice daily,"Dizziness, fatigue, headache",Generic,CN(C)C(=NC1=CN=CN1C)SCCNC
+Hydroxychloroquine,Hydroxychloroquine,Treat autoimmune reactions (controversial use),200-400 mg daily,"Vision problems, heart issues",Generic,CC(C)NCC(O)C1=CC=C(C=C1)NC2=NC=CC=C2
+Balapiravir,,,,"headache, dizziness, vomiting, nausea, diarrhea, abdominal pain, back pain, neck pain, neutropenia",,CC(C)C(=O)OC[C@]1(O[C@H]([C@H](OC(=O)C(C)C)[C@@H]1OC(=O)C(C)C)N1C=CC(N)=NC1=O)N=[N+]=[N-]
+Celgosivir,,,,"flatulence, diarrhoea",,CCCC(=O)O[C@H]1CN2CC[C@H](O)[C@@H]2[C@@H](O)[C@@H]1O
+Chloroquine,,,,"Nausea, vomiting, abdominal cramps, headache, diarrhea, low blood sugar, shaking, hunger, blurred vision, dizziness",,CCN(CC)CCCC(C)NC1=CC=NC2=CC(Cl)=CC=C12
+Metformin,,,,"Bloating, Gas, Diarrhea, Belly pain, Constipation, Little appetite",,CN(C)C(=N)NC(N)=N
+modipafant,,,,"headache, agitation, skin rash, urinary retention, muscle weakness, sleep disturbance, palpitations, hair loss, decreased appetite, potential blood cell, liver abnormalities",,CCOC(=O)C1=C(NC(C)=C([C@H]1C1=CC=CC=C1Cl)C(=O)NC1=NC=CC=C1)C1=CC=C(C=C1)N1C(C)=NC2=C1C=CN=C2
+Cholecalciferol,,,,"nausea, vomiting, constipation, loss of appetite, increased thirst, increased urination, mood changes, unusual tiredness, rash, itching, severe dizziness, trouble breathing",,CC(C)CCC[C@@H](C)[C@@]1([H])CC[C@@]2([H])\C(CCC[C@]12C)=C\C=C1\C[C@@H](O)CCC1=C
+Fenretinide,,,,"skin dryness, night-blindness",,C\C(\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C/C(=O)NC1=CC=C(O)C=C1
+Molnupiravir,,,,"Diarrhea, dizziness, headache, hives, itching, skin rash, nausea, redness of the skin, vomiting",,CC(C)C(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=C\C(NC1=O)=N\O
+Ribavirin,,,,"Nausea, diarrhea, stomach upset, headache, dizziness, blurred vision, trouble sleeping, cough, low appetite, weight loss or gain, dry skin",,NC(=O)C1=NN(C=N1)[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O
+Zanamivir,,,,"Sinus infection, Dizziness, Fever and chills, Joint or muscle pain",,[H][C@]1(OC(=C[C@H](N=C(N)N)[C@H]1NC(C)=O)C(O)=O)[C@H](O)[C@H](O)CO
+Ivermectin,,,,"Itching, Dizziness, Fluid retention, Fast heartbeat, Diarrhea, Nausea",,[H][C@@]12OC\C3=C/C=C/[C@H](C)[C@H](O[C@H]4C[C@H](OC)[C@@H](O[C@H]5C[C@H](OC)[C@@H](O)[C@H](C)O5)[C@H](C)O4)\C(C)=C\C[C@]4([H])C[C@@]([H])(C[C@]5(CC[C@H](C)[C@]([H])(O5)C(C)C)O4)OC(=O)[C@]([H])(C=C(C)[C@H]1O)[C@@]23O.[H][C@@]12OC\C3=C/C=C/[C@H](C)[C@H](O[C@H]4C[C@H](OC)[C@@H](O[C@H]5C[C@H](OC)[C@@H](O)[C@H](C)O5)[C@H](C)O4)\C(C)=C\C[C@]4([H])C[C@@]([H])(C[C@]5(CC[C@H](C)[C@]([H])(O5)[C@@H](C)CC)O4)OC(=O)[C@]([H])(C=C(C)[C@H]1O)[C@@]23O
+Montelukast,,,,"headache, heartburn, stomach pain, tiredness, diarrhea",,OC(=O)CC1(CC1)CS[C@H](CCC1=CC=CC=C1C(O)(C)C)C1=CC=CC(\C=C\C2=NC3=C(C=CC(Cl)=C3)C=C2)=C1
+Diethyltoluamide,,,,"skin irritation, redness, swelling, seizures, tremors, and neurological issues",,CCN(CC)C(=O)C1=CC(C)=CC=C1
+Ketotifen,,,,"Chills, cough, diarrhea, fever, general feeling of discomfort or illness, headache, joint pain, loss of appetite, muscle aches and pains, nausea, runny nose, shivering, sore throat, sweating, trouble sleeping, unusual tiredness or weakness, vomiting",,CN1CCC(CC1)=C1C2=C(SC=C2)C(=O)CC2=CC=CC=C12
+Baicalein,,,,"stomach pain, constipation, vomiting, stomach upset",,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O
+Quercetin,,,,"headache, upset stomach",,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O
+Naringin,,,,"cough, dizziness, headaches, flushing sensation, palpitation, angioedema, liver dysfunction, myositis",,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O
+Daidzein,,,,"upset stomach, diarrhea, constipation, gas, heartburn",,C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)O)O
+Agathisflavone,,,,"Diarrhea, dizziness, headache",,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)C4=C(C=C(C5=C4OC(=CC5=O)C6=CC=C(C=C6)O)O)O)O)O
+isoquercitrin,,,,headache and upset stomach,,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O
+Myricetin,,,,"DNA damage, inhibit cellular functions",,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O
+kaempferol,,,,energy failure,,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O
+Cardamonin,,,,"skin rashes, breathing difficulties, diarrhea, abdominal pain",,COC1=CC(=CC(=C1C(=O)C=CC2=CC=CC=C2)O)O
+Pinostrobin,,,,"headache, fever, gastric problems, skin rash",,COC1=CC(=C2C(=O)CC(OC2=C1)C3=CC=CC=C3)O
